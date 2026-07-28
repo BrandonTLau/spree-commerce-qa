@@ -30,3 +30,4 @@ pip install pytest-playwright
 playwright install
 python -m pytest tests/
 ```
+Link to test cases: https://docs.google.com/spreadsheets/d/1xw4wxgtClK5H6X7W6VnqHZ-GJzTQN2kd9ODi8kh4lxE/edit?usp=sharing
